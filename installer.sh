@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Script: Install UniFi Network Controller on Ubuntu 24.04
-# Author: [Your Name/Organization]
-# Date: 2024-10-27
 # Description: This script automates the installation of the UniFi Network Controller on Ubuntu 24.04.
 
 # Update and upgrade the system
